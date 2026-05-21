@@ -1,0 +1,17 @@
+
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+
+# Environment variables - NEVER commit this file
+.env
+
+# Test reports
+reports/
+*.html
+
+
+
