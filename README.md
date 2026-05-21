@@ -1,5 +1,7 @@
 # Trello API Test Suite
 
+### ![Trello Tests Status](https://github.com/nmyani/trello-api-tests/actions/workflows/run-tests.yml/badge.svg)
+
 Automated API test suite for the Trello REST API, built with **Python** and **pytest**.
 
 Covers full CRUD operations for Boards, Lists, and Cards — including parametrized test cases, session-scoped fixtures, and response schema validation.
